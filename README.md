@@ -1,3 +1,7 @@
+Introduction
+Cholera is an infectious disease that causes severe watery diarrhea, which can lead to dehydration and even death if untreated. It is caused by eating food or drinking water contaminated with a bacterium called Vibrio cholerae.
+
+
 Context
 
         Cholera is an acute diarrhoeal infection caused by eating or drinking food or water that is contaminated with the bacterium Vibrio cholerae.
